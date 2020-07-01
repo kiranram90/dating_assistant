@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby 
+
+
+require './lib/dating_assistant'
+
+
+
+DatingAssistant::CLI.new.selection
